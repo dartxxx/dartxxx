@@ -2,7 +2,6 @@
 
 Desarrollador de software · DEV Estudio
 
-![Visitors](https://komarev.com/ghpvc/?username=dartxxx&color=blue&style=flat-square)
 
 ## 🚀 Proyectos destacados
 
