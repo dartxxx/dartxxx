@@ -1,4 +1,4 @@
-# 👋 Hola, soy Dario Rial
+# 👋 Hola, soy Lupe
 
 Desarrollador de software · DEV Estudio
 
